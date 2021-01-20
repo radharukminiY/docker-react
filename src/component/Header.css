@@ -1,0 +1,16 @@
+header{
+  background-color:aqua;
+  opacity: .5;
+}
+
+.logo{
+  font-size:40px;
+  color:black;
+  text-align: center;
+}
+body{
+  background: gray;
+}
+div .h2{
+  color:white;
+}

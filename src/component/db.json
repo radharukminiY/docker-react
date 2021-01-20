@@ -1,0 +1,26 @@
+[
+    {
+        "id":1,
+        "title":"Secret superstar",
+        "feed":" Secret Superstar is a 2017 Indian Hindi-language musical drama film written and directed by Advait Chandan, and produced by Aamir Khan and Kiran Rao under the studio Aamir Khan Productions.",
+          "rating":"4.8"
+    },
+    {
+        "id":2,
+        "title":"Bajrangi Bhaijaan",
+        "feed":" Bajrangi Bhaijaan ( transl. Brother Bajrangi) is a 2015 Indian Hindi-language comedy-drama film.",
+        "rating":"4.9"
+    },
+    {
+        "id":3,
+        "title":"Dangal",
+        "feed":"Dangal ( transl. Wrestling competition) is a 2016 Indian Hindi-language biographical sports drama film directed by Nitesh Tiwari and produced by Aamir Khan, under his studio Aamir Khan Productions with UTV Motion Pictures and Walt Disney Pictures India.",
+        "rating":"4.8"
+    },
+    {
+        "id":4,
+        "title":"Bahubali",
+        "feed":"The Beginning is a 2015 Indian epic action film directed by S.S Rajamouli and produced by Shobu Yarlagadda and Prasad Devineni, and shot simultaneously in Telugu. ",
+          "rating":"5"
+    }
+  ]
