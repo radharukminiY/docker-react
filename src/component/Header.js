@@ -7,7 +7,7 @@ class Header extends Component {
     super()
 
     this.state={
-      title:'Top-Movies-India',
+      title:'Top-Movies-Indian',
       keyword:'user text here'
     }
 
